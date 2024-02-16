@@ -1,0 +1,191 @@
+@charset "UTF-8";
+a,
+body,
+div,
+html,
+p,
+span {
+    border: 0;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%
+}
+
+body {
+    margin: 0
+}
+
+footer,
+section {
+    display: block
+}
+
+a {
+    background-color: transparent
+}
+
+a:active {
+    outline: 0
+}
+
+a,
+a:focus,
+a:hover,
+a:visited {
+    text-decoration: none
+}
+
+b {
+    font-weight: 700
+}
+
+img {
+    border: 0
+}
+
+/*!
+ * Bootstrap v4.0.0-alpha.2 (https://getbootstrap.com)
+ */
+
+html {
+    box-sizing: border-box
+}
+
+*,
+:after,
+:before {
+    box-sizing: inherit
+}
+
+body {
+    color: #808285;
+    background: #fff;
+    font-style: normal
+}
+
+b {
+    font-weight: 700
+}
+
+img {
+    height: auto;
+    max-width: 100%
+}
+
+a {
+    color: #4169e1
+}
+
+a:focus,
+a:hover {
+    color: #191970
+}
+
+a:focus {
+    outline: thin dotted
+}
+
+a:hover {
+    outline: 0
+}
+
+::selection {
+    color: #fff;
+    background: #0274be
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+body:not(.logged-in) {
+    position: relative
+}
+
+a,
+a:focus {
+    text-decoration: none
+}
+
+a {
+    transition: all .2s linear
+}
+
+img {
+    vertical-align: middle
+}
+
+p {
+    margin-bottom: 1.75em
+}
+
+body {
+    line-height: 1.85714285714286
+}
+
+body {
+    background-color: #fff
+}
+
+body {
+    overflow-x: hidden
+}
+
+html {
+    font-size: 93.75%;
+}
+
+a {
+    color: #0274be;
+}
+
+a:hover,
+a:focus {
+    color: #3a3a3a;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+    font-weight: inherit;
+    font-size: 15px;
+    font-size: 1rem;
+}
+
+::selection {
+    background-color: #0274be;
+    color: #ffffff;
+}
+
+body {
+    color: #3a3a3a;
+}
+
+@media (max-width:768px) {
+    html {
+        font-size: 85.5%;
+    }
+}
+
+@media (max-width:544px) {
+    html {
+        font-size: 85.5%;
+    }
+}
+
+@font-face {
+    font-family: "Astra";
+    src: url(https://happiermenow.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"), url(https://happiermenow.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"), url(https://happiermenow.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
